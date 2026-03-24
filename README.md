@@ -38,3 +38,12 @@ Permissions → Bucket Policy
 Properties → Static website hosting
 
 url like http://diabetes-app-123.s3-website-ap-south-1.amazonaws.com
+
+
+# AZURE
+
+web app
+
+open web app go to resource
+
+under deployment -> deployment center -> source github  -> basic authentication  -> save 
